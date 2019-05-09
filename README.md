@@ -2,7 +2,7 @@
 
 ### This web app uses routes and navlinks for navigation with static data.
 
-[Demo](https://simple-course-directory.herokuapp.com/)
+
 ___
 
 # Installation
